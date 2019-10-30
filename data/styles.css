@@ -1,0 +1,157 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.shape {
+}
+.image {
+}
+.el-button {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:center;
+}
+.el-button-primary {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.box_2 {
+}
+.heading_1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.icon {
+}
+.paragraph {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.flow_shape {
+}
+.line {
+}
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+._选项组_选中 {
+  color:#FFFFFF;
+}
+._选项组_未选中 {
+}
+._内容 {
+}
+.table_text {
+  font-family:'OpenSans-Light', 'Open Sans Light', 'Open Sans';
+  font-weight:200;
+  font-style:normal;
+  font-size:12px;
+  color:#D7D7D7;
+  text-align:left;
+}
+._默认边框 {
+  font-size:12px;
+}
+._弥散边框 {
+  font-size:12px;
+}
+.el-shadow {
+}
+.inputed {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.checkbox-label-uncheck {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.checkbox-uncheck {
+}
+.checkbox-label-check {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:left;
+}
+.checkbox-check {
+}
+.box_1 {
+}
+textarea, select, input, button { outline: none; }
